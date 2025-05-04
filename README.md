@@ -86,5 +86,5 @@ See full assumptions in [`assumptions.md`](./assumptions.md).
 ## 🎓 Author
 
 **Wubishet Degife Mammo**  
-Graduate Researcher, Laboratory for Energy and Power Solutions (LEAPS)  
+PhD Student 
 Arizona State University
